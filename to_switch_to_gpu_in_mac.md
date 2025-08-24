@@ -13,7 +13,7 @@ Copy
 Edit
 pip install tensorflow-macos
 pip install tensorflow-metal
-✅ Step 4: Test GPU Access in Your Python Notebook
+Step 4: Test GPU Access in Your Python Notebook
 In your VS Code .ipynb file, insert this:
 
 python
